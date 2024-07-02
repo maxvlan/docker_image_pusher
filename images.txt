@@ -1,1 +1,2 @@
 vulnerables/web-dvwa
+phusion/baseimage:noble-1.0.0
