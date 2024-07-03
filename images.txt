@@ -1,1 +1,1 @@
-kasmweb/nginx:1.25.3
+phusion/baseimage:noble-1.0.0
