@@ -1,2 +1,2 @@
 phusion/baseimage:noble-1.0.0
-phusion/Ubuntu:16.04
+docker.io/library/Ubuntu:16.04
