@@ -1,1 +1,2 @@
-Ubuntu:16.04
+phusion/baseimage:noble-1.0.0
+phusion/Ubuntu:16.04
