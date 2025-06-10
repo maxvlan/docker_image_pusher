@@ -1,3 +1,4 @@
 phusion/baseimage:noble-1.0.0
 docker.io/library/Ubuntu:16.04
 python:3.10
+php:5.6.27-apache
