@@ -1,1 +1,1 @@
-acgpiano/sqli-labs
+ubuntu:20.04
