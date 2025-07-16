@@ -1,5 +1,6 @@
 mariadb
 d0g3/h1ve
 d0g3/h1ve-frp
-d0g3/h1ve-main
 redis
+h1ve-main
+
