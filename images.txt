@@ -1,1 +1,1 @@
-vulfocus/solr-stream.url-ssrf
+mariadb:10.4
