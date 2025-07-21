@@ -1,1 +1,1 @@
-vulhub-master/fastjson/1.2.47-rce
+vulhub-master/fastjson
