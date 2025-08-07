@@ -1,1 +1,1 @@
-opensca/opensca-cli
+opensca/opensca-cli:latest
