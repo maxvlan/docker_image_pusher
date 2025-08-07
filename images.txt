@@ -1,1 +1,1 @@
- opensecurity/mobile-security-framework-mobsf
+opensca/opensca-cli
