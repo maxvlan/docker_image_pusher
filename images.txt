@@ -1,1 +1,1 @@
-vulhub/fastjson:1.2.45
+ opensecurity/mobile-security-framework-mobsf
