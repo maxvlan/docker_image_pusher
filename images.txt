@@ -1,1 +1,1 @@
-moby/buildkit:buildx-stable-1
+node:18-alpine
