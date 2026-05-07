@@ -1,1 +1,1 @@
-opensca/opensca-cli:latest
+mysql:5.7
